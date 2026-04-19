@@ -1,6 +1,3 @@
-# Monash Neurointervention
-Designing and advancing the future of neurovascular care through clinical excellence, patient-centred care, and innovative research to reduce disability and extend life.
-
 ## About
 Monash Neurointervention is a research-intensive clinical service at Monash Health and Monash University focused on improving outcomes for patients with neurovascular disease.
 
