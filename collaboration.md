@@ -1,4 +1,4 @@
-### COLLABORATION
+# COLLABORATION
 
 We welcome:
 - External validation studies
