@@ -29,7 +29,7 @@ This GitHub organisation hosts open and reproducible research outputs from the
 
 Current repositories include:
 
-*DAH30 (Days Alive and at Home at 30 Days)*
+[*DAH30 (Days Alive and at Home at 30 Days)*](https://monash-neurointervention.github.io/uia-dah30/)
 - Reference implementation of DAH30, a patient-centred outcome measure capturing recovery and time at home after neurointerventional procedures
 
 *UIA Competing Risk Analysis*
