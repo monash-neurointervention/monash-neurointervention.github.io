@@ -35,7 +35,7 @@ Current repositories include:
 *UIA Competing Risk Analysis*
 - Methods and code for analysing rupture risk in unruptured intracranial aneurysms, accounting for competing mortality.
 
-*Systematic Review &amp; Meta-Analysis (UIA-SR-MA)*
+[*Systematic Review &amp; Meta-Analysis (UIA-SR-MA)*](https://monash-neurointervention.github.io/uia-sr-ma/)
 - Reproducible workflows and datasets for systematic review and meta-analysis in intracranial aneurysm research.
 
 ## Reproducibility and Open Science
