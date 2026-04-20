@@ -73,4 +73,4 @@ This platform will expand to include:
 - Translational and implementation resources
 - Multi-centre collaborative research projects
 
-## Contact / Collaboration
+## [COLLABORATION](https://monash-neurointervention.github.io/collaboration)
